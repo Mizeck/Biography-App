@@ -7,5 +7,11 @@ li{
     text-decoration: none;
     
 }
+.footer{
+    border-top: sienna;
+    text-align: center;
+    height: fit-content;
+    background-color: springgreen;
+}
 
 
